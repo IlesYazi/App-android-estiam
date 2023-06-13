@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ApplicationScratch130623</string>
+
+    <string name="button_text">Go to second Activity </string>
+    <string name="first_text_view">First activity</string>
+    <string name="second_text_view">Second activity</string>
+</resources>
