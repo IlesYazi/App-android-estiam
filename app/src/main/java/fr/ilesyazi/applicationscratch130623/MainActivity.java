@@ -24,6 +24,8 @@ public class MainActivity extends AppCompatActivity {
                 //intent.setFlags(intent.FLAG_ACTIVITY_CLEAR_TOP);
                 startActivity(intent);
                 //finish();
+
+                System.out.println("Test");
             }
         });
     }
